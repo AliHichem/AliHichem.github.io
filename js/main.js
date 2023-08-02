@@ -36,7 +36,8 @@
 
 	// Parallax
 	var parallax = function() {
-		$(window).stellar();
+		// temporarily disable stellar
+		//$(window).stellar();
 	};
 
 	var contentWayPoint = function() {
