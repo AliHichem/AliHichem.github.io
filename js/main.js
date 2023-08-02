@@ -141,9 +141,9 @@
 		goToTop();
 		loaderPage();
 		fullHeight();
-		parallax();
+		// parallax();
 		// pieChart();
-		skillsWayPoint();
+		// skillsWayPoint();
 	});
 
 
